@@ -28,6 +28,9 @@
 
 ## 2. Team Member
 
-| 이름 | [강민재](https://github.com/minijae011030) | [곽효재](https://github.com/REVE97) | [김동연](https://github.com/Todom2) | [김미정](https://github.com/mizzomi) |  [이호진](https://github.com/HoreungHoreung) | [정다현](https://github.com/dahyyun) |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 프로필 | <img src="https://avatars.githubusercontent.com/u/105128049?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/121287440?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/116967871?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/71602147?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/128957586?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/173062369?v=4" width="100"/> |
+
+
+| <img src="https://avatars.githubusercontent.com/u/105128049?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/121287440?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/116967871?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/71602147?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/128957586?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/173062369?v=4" width="100"/> |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| [강민재](https://github.com/minijae011030) | [곽효재](https://github.com/REVE97) | [김동연](https://github.com/Todom2) | [김미정](https://github.com/mizzomi) |  [이호진](https://github.com/HoreungHoreung) | [정다현](https://github.com/dahyyun) |
+| Team Leader, Frontend Developer, UI/UX Designer | Frontend Developer, UI/UX Designer | Backend Leader, Backend Developer | Backend Developer | Backend Developer, DevOps Engineer | Backend Developer |
